@@ -1,6 +1,13 @@
 Hello! This Project is inspired by a paid project. i wanna make this clear i do not have "beef" with other creators i just believe in free and opensource software. thats all. 
 
+Newest Update (2nd Update)
 
+So i figured out some more info. im currently learning on how to get the code to run. i have learned that it appears you cant really embed stuff so heres what we got. currently
+its having issues accepting touch at this time and i still have the map problem. but as of right now its running custom software. i will link the html im running in this github repo
+if anyone can figure it out please make a issue. Thanks!
+
+
+**first Update**
 heres what were at right now. 
  im currently trying to figure out how i can manage the screen as of right now it seems to be running off of HTML so if i can get a stream
  of the phone and embed it, it should work and take advantage of the app "head unit revived" check that project out right here https://github.com/andreknieriem/headunit-revived
